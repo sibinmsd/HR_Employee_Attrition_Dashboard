@@ -15,7 +15,11 @@ This project analyzes Employee Attrition data using Power BI.
 1. Attrition by age and gender analysis
 2. Attrition by Job department and role analysis
 3. Attrition by income and martial status analysis
-4. Attrition by work experience analysis 
+4. Attrition by work experience analysis
+
+**DAX Measures used**
+1. Created column for age group, salary range, work experience using DAX measures
+2. Calculated percentage of attrition 
 
 **Key Insights**
 
